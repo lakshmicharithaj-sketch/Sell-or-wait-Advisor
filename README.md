@@ -121,11 +121,3 @@ The “wait” price is a **scenario**, not a forecast. It repeats the latest ob
 5. Store alerts in a managed database and deliver notifications only after opt-in.
 6. Ask local farmers/market experts to review assumptions and wording before field use.
 
-## Judging criteria map
-
-1. **Working agent end-to-end:** UI → REST API → calculations → evidence/explanation.
-2. **Data/tool integration:** CSV provider plus allow-listed callable tools and REST endpoints.
-3. **Reasoning/evidence/reliability:** visible metrics, assumptions, input validation, mock-data label, deterministic calculations.
-4. **UI/UX and innovation:** chart, market comparison, scenario simulator and farmer-oriented dashboard.
-5. **Practical impact:** compares cost-aware scenarios; real-world use requires verified live data and local validation.
-6. **Demo/team understanding:** predictable demo flows, tests, API docs and limitations explained.
