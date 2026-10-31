@@ -77,7 +77,7 @@ Example POST body:
 
 ### GitHub + Vercel dashboard (recommended for beginners)
 
-1. Create a GitHub repository and upload these project files.
+1. Created a GitHub repository and upload these project files.
 2. Sign in to Vercel and choose **Add New → Project**.
 3. Import the repository. Keep the project root as the repository root.
 4. Vercel should detect the Python Flask app from `app.py`. The `public/` directory contains static assets.
