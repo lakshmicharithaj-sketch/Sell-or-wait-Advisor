@@ -1,4 +1,4 @@
-"""HarvestWise market data, deterministic calculations, and optional tool-using AI."""
+"""HarvestWise market data, deterministic calculations,tool-using AI."""
 import csv
 import json
 import math
