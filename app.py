@@ -5,8 +5,7 @@ from advisor import (
     simulate_scenarios, create_alert, DATA_MODE
 )
 
-# Vercel serves files in /public directly from the site root. The same folder
-# also works with Flask's local development server.
+
 app = Flask(__name__, static_folder="public", static_url_path="")
 
 @app.get("/")
