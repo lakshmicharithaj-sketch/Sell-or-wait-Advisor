@@ -17,7 +17,7 @@ The bundled CSV is **fictional sample data** created for UI and workflow demonst
 - REST API, input validation, error handling and pytest checks.
 - Vercel-oriented structure: static assets are in `public/`, Flask entrypoint is `app.py`.
 
-## Run locally
+## Runs locally
 
 Requires Python 3.10+ (Python 3.12 recommended).
 
